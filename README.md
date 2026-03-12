@@ -42,7 +42,7 @@ A full-stack job tracking and application management platform that helps users s
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/saininavdeep25/job-hunt.git
+git clone https://github.com/sood-neer/job-hunt.git
 cd job-hunt
 ```
 2. **For server (.env)**
