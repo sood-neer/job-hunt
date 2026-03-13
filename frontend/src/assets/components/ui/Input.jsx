@@ -7,7 +7,7 @@ const Input = ({ id, type = 'text', placeholder, className, ...props }) => {
             id={id} 
             type={type} 
             placeholder={placeholder} 
-            className={`block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-1 focus:ring-indigo-500 sm:text-sm ${className}`} 
+            className={`block w-full px-4 py-2.5 bg-white border border-slate-200 rounded-xl shadow-sm placeholder-slate-400 focus:outline-none focus:border-brand-500 focus:ring-2 focus:ring-brand-500/20 sm:text-sm transition-all duration-200 ${className}`} 
             {...props} 
         />
     );
